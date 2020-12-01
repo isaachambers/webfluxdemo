@@ -1,4 +1,4 @@
-package com.getir.controller;
+package com.getir.web.controller;
 
 import com.getir.model.Person;
 import org.springframework.http.MediaType;

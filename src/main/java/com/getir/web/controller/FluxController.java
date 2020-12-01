@@ -1,4 +1,4 @@
-package com.getir.controller;
+package com.getir.web.controller;
 
 import java.time.Duration;
 
